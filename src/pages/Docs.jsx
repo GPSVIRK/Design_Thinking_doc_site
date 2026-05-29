@@ -59,11 +59,11 @@ const docGroups = [
   },
   {
     group: "Poster",
-    description: "",
+    description: "Final project poster consolidating the complete Design Thinking journey, from research and problem framing to ideation, solution development, and the TrustLayer prototype.",
     items: [
       {
-        title: "",
-        description: "",
+        title: "TrustLayer Final Poster",
+        description: "Comprehensive visual summary of the project, including user research insights, personas, root cause analysis, HMW questions, solution rationale, and the final TrustLayer prototype.",
         href: "/docs/TrustLayer_Poster.pdf"
       }
     ]
