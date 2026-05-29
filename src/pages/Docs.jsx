@@ -57,6 +57,17 @@ const docGroups = [
       },
     ],
   },
+  {
+    group: "Poster",
+    description: "",
+    items: [
+      {
+        title: "",
+        description: "",
+        href: "/docs/TrustLayer_Poster.pdf"
+      }
+    ]
+  }
 ];
 
 const confidenceRows = [
