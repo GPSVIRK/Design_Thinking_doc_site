@@ -63,7 +63,7 @@ const docGroups = [
     items: [
       {
         title: "TrustLayer Final Poster",
-        description: "Visual summary of the project, including aspects from the previous sections and, solution rationale.",
+        description: "Comprehensive visual summary of the project, solution rationale, and the TrustLayer Prototype.",
         href: "/docs/TrustLayer_Poster.pdf"
       }
     ]
